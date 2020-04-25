@@ -1,8 +1,13 @@
 # Projeto2D
 Controles: <br>
-Setas para esquerda e direita movem o personagem.
-Barra de espaco para pular.
+<ul>
+  <li>Setas para esquerda e direita movem o personagem.</li>
+  <li>Barra de espaco para pular.</li>
+</ul>
 
-Cuidado com as armadilhas, o personagem possui tres vidas apenas.
-Nao caia nos buracos.
-Colete o pergaminho para vencer.
+Avisos: <br>
+<ul>
+  <li>Cuidado com as armadilhas, o personagem possui tres vidas apenas.</li>
+  <li>Nao caia nos buracos.</li>
+  <li>Colete o pergaminho para vencer.</li>
+</ul>
