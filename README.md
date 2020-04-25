@@ -1,5 +1,5 @@
 # Projeto2D
-
+Controles: <br>
 Setas para esquerda e direita movem o personagem.
 Barra de espaco para pular.
 
